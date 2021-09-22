@@ -18,19 +18,15 @@ img:nth-child(2){
 filter: grayscale(100%);
 }
 
-
-
 .scrollingMenu {
   width: 500px;
   background-color: rgb(61, 189, 228);
   text-align: center;
   
 }
-
 .scrollingMenu li {
   display: inline-block;
 }
-
 .scrollingMenu a {
   display: inline-block;
   color: white;
@@ -38,7 +34,6 @@ filter: grayscale(100%);
   padding: 15px;
   text-decoration: none;
 }
-
 .scrollingMenu a:hover {
   background-color: rgb(97, 214, 214);
 }
