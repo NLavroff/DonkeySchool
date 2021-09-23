@@ -1,4 +1,4 @@
- img:hover {
+img:hover {
     opacity: 0.5;
   }
 
@@ -17,6 +17,7 @@
     background-color: rgb(61, 189, 228);
     text-align: center;
   }
+
   .scrollingMenu li {
     display: inline-block;
   }
