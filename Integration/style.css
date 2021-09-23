@@ -7,7 +7,6 @@ img:hover {
     max-width: 100%;
     height: auto;
   }
-}
 
   img:nth-child(2) {
 filter: grayscale(100%);
@@ -16,8 +15,7 @@ filter: grayscale(100%);
   .scrollingMenu {
   width: 500px;
   background-color: rgb(61, 189, 228);
-  text-align: center;
-  
+  text-align: center;  
 }
   .scrollingMenu li {
   display: inline-block;
