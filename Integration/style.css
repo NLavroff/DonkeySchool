@@ -1,37 +1,35 @@
  img:hover {
     opacity: 0.5;
-}
+  }
 
   img {
     border-radius: 3px;
     max-width: 100%;
     height: auto;
   }
-}
 
   img:nth-child(2) {
-filter: grayscale(100%);
-}
+    filter: grayscale(100%);
+  }
 
   .scrollingMenu {
-  width: 500px;
-  background-color: rgb(61, 189, 228);
-  text-align: center;
-  
-}
+    width: 500px;
+    background-color: rgb(61, 189, 228);
+    text-align: center;
+  }
   .scrollingMenu li {
-  display: inline-block;
-}
+    display: inline-block;
+  }
   .scrollingMenu a {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  padding: 15px;
-  text-decoration: none;
-}
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+  }
 .scrollingMenu a:hover {
-  background-color: rgb(97, 214, 214);
-}
+    background-color: rgb(97, 214, 214);
+  }
 
 body {
   background-color: rgb(36, 34, 34);
